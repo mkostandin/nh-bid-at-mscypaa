@@ -11,7 +11,7 @@ Additionally, the game must be packaged and approved with the store listing subm
 
 ## Offline PWA/Service Worker
 
-For the PWA service worker, the caching strategy chosen was StaleWhileRevalidate. The cached offline version will be used unless the server has something newer, and then the cache is updated. This allows for a snappy application that will just look at the server to see if the service worker version has changed.
+For the PWA service worker, the caching strategy chosen was StaleWhileRevalidate. The cached offline version will be used unless the server has something newer, and then the cache is updated. This allows for a snappy application that will just look at the server to see if the service worker version has changed. Surprisingly, the entire GDevelop game engine can work offline as a cached PWA pretty well.
 
 Worbox was used because it simplifies the generation of service workers and the implementation of caching strategies.
 ``` javascript
