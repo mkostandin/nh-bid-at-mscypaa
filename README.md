@@ -10,8 +10,9 @@ Navigate through the hotel and make it to the main meeting in time to hype the N
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-nh-bid-at-mscypaa-gif.gif" style="display:block;margin:auto;" alt="NHSCYPAA XXIV" width="75%"/>
 </p>
-<a href="https://www.nh-bid-conference-dash.info" target="_blank">Live Demo</a>
+<a href="https://www.nh-bid-conference-dash.info" target="_blank">Live Demo</a> <br>
 <a href="https://www.youtube.com/watch?v=4GX3vjYiq6E" target="_blank">Private Release Trailer</a>
+
 ## Features
 
 - Cross Platform
