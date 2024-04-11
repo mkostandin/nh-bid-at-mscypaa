@@ -24,6 +24,8 @@ Navigate through the hotel and make it to the main meeting in time to hype the N
 
 
 ## 🔗 Store Links
+
+- [Steam](https://apps.apple.com/us/app/nh-bid-at-mscypaa-the-game/id6451269868)
 - [App Store](https://apps.apple.com/us/app/nh-bid-at-mscypaa-the-game/id6451269868)
 - [Google Play Store](https://play.google.com/store/apps/details?id=store.nh_bid_conference_dash.twa)
 - [Microsoft Store](https://apps.microsoft.com/detail/9pmkdxm6g1vx?hl=en-us&gl=US)
