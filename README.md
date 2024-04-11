@@ -10,6 +10,7 @@ Navigate through the hotel and make it to the main meeting in time to hype the N
 <p align="center">
 <img src="https://github.com/mkostandin/mkostandin/blob/main/trailer-slash-steam-nh-bid-at-mscypaa-gif.gif" style="display:block;margin:auto;" alt="NHSCYPAA XXIV" width="75%"/>
 </p>
+
 <a href="https://www.nh-bid-conference-dash.store" target="_blank">Live Demo</a> <br>
 <a href="https://www.youtube.com/watch?v=4GX3vjYiq6E" target="_blank">Private Release Trailer</a>
 
@@ -25,7 +26,7 @@ Navigate through the hotel and make it to the main meeting in time to hype the N
 
 ## 🔗 Store Links
 
-- [Steam](https://apps.apple.com/us/app/nh-bid-at-mscypaa-the-game/id6451269868)
+- [Steam](https://store.steampowered.com/app/2528730/NH_Bid_at_MSCYPAA_The_Game/)
 - [App Store](https://apps.apple.com/us/app/nh-bid-at-mscypaa-the-game/id6451269868)
 - [Google Play Store](https://play.google.com/store/apps/details?id=store.nh_bid_conference_dash.twa)
 - [Microsoft Store](https://apps.microsoft.com/detail/9pmkdxm6g1vx?hl=en-us&gl=US)
