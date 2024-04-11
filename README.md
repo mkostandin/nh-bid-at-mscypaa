@@ -1,1 +1,1 @@
-# nh-bid-at-mscypaa
+# NH Bid at MSCYPAA: The Game
