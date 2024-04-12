@@ -28,7 +28,9 @@ Ultimately, the window was pointed at index.html to start the application.
 
 ## XBOX and PS4
 
-![](https://github.com/mkostandin/mkostandin/blob/main/mscy-screen.png)
+<p align="center">
+<img src="https://github.com/mkostandin/mkostandin/blob/main/mscy-screen.png" style="display:block;margin:auto;" alt="Feedback" width="75%"/>
+</p>
 
 ## Offline PWA/Service Worker
 
