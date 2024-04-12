@@ -31,7 +31,7 @@ Special care had be taken to make sure that the entire game played on the consol
 
 It was the only game ever made for recovery. Let alone released to Steam and playable on XBOX and PS4.
 <p align="center">
-<img src="https://github.com/mkostandin/mkostandin/blob/main/mscy-screen.png" style="display:block;margin:auto;" alt="Feedback" width="45%"/>
+<img src="https://github.com/mkostandin/mkostandin/blob/main/mscy-screen.png" style="display:block;margin:auto;" alt="Feedback" width="25%"/>
 </p>
 
 ## Offline PWA/Service Worker
