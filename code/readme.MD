@@ -25,6 +25,10 @@ function createWindow() {
   });
 ```
 
+Ultimately, the window was pointed at index.html to start the application.
+``` javaScript 
+ mainWindow.loadFile("app/index.html");
+````
 ## Gdevelop
 
 ## XBOX and PS4
