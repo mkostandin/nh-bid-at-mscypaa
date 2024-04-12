@@ -24,7 +24,6 @@ Ultimately, the window was pointed at index.html to start the application.
 ``` javaScript 
  mainWindow.loadFile("app/index.html");
 ````
-## Gdevelop
 
 ## XBOX and PS4
 Special care had be taken to make sure that the entire game played on the consoles and displayed correct buttons. The entire game would need to be accessible from a gamepad, so support for that was added. Unfortunately. while porting the game, the main character's sprite stopped being able to be animate to point in different directions.
