@@ -1,7 +1,6 @@
 # NH Bid at MSCYPAA: The Game
 
-A 2D cross-platform action game with bid battles, turbo mode, a time challenge, and a leaderboard. The main challenge was that development for the game started on July 10, and the conference was on August 18th. There was only a month to create a private trailer with a limited release on August 1st to hype the bid and publish the game to all app stores and Steam while being playable on XBOX and PS4.
-
+A 2D cross-platform action game with bid battles, turbo mode, a time challenge, and a leaderboard. 
 ## Description
 Play as the NH Bid for NECYPAA at the MSCYPAA XXV conference!
 
