@@ -5,6 +5,25 @@ Additionally, the game must be packaged and approved with the store listing subm
 
 ## Electron
 
+``` javascript
+function createWindow() {
+  // Create the browser window.
+  mainWindow = new BrowserWindow({
+    width: 768,
+    height: 432,
+    useContentSize: true,
+    title: "NH Bid at MSCYPAA",
+    backgroundColor: '#000000',
+    icon: __dirname + "/ms-store-icon.png",
+    webPreferences: {
+      // Allow Node.js API access in renderer process, as long
+      // as we've not removed dependency on it and on "@electron/remote".
+      nodeIntegration: true,
+      contextIsolation: false,
+    }
+  });
+```
+
 ## Gdevelop
 
 ## XBOX and PS4
